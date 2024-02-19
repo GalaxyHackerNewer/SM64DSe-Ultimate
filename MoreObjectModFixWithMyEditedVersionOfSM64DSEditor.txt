@@ -1,0 +1,4 @@
+Place alls objects from MoreObjectMod in ASMPatchTempl
+ate------->v2 folder
+Pacer tout les objets de PlusObjetMod dans ASMPatchMod
+ele------->v2 dossier
